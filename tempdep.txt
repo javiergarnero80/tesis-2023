@@ -1,0 +1,6 @@
+20.1  16.6 AEROPARQUE AERO
+18.0  13.9 AZUL AERO
+15.0   8.2 BAHIA BLANCA AERO                                                              
+7.7   0.1 BARILOCHE AERO                                                               
+-8.8 -26.3 BASE BELGRANO II
+26.6   7.1 JUJUY U N                                                              
